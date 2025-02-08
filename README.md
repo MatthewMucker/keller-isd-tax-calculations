@@ -1,6 +1,10 @@
 # keller-isd-tax-calculations
 An attempt to understand where Keller ISDs tax revenue comes from
 
+### Changelog
+2/6/24 10PM: original post
+2/7/25 10:45PM: added new file to calculate east side vs west side
+
 ## What's this all about
 
 On 2/6/2025, Dylan Oleszak made the a [Facebook post](https://www.facebook.com/share/p/19zjjhdRfn/) with a claim that, "Keller accounts for only 25% of KISD but pays 45% of all KISD debt." 
